@@ -52,7 +52,7 @@ const HomePage = () => {
     <Box m={4}>
       <VStack alignContent='center' m={4}>
         <Heading mb={4} textAlign='center'>
-          ManaBox Export Reformatter
+          ManaBox Export Helper
         </Heading>
         <form onSubmit={onSubmit}>
           <FormControl mb={4} isRequired>
